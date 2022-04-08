@@ -54,7 +54,8 @@ const Service = () => {
           We
         </h3>
         <h2>
-          we provide service
+          we provide service 1234
+          89
         </h2>
       </div>
       <div className="service_img-container">
